@@ -5,6 +5,9 @@
         "lib/**/*.jar"
     ],
     "cSpell.words": [
-        "Calculadora"
+        "altura",
+        "Calculadora",
+        "idade",
+        "sobrenome"
     ]
 }
